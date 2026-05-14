@@ -5,9 +5,8 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.x-green)](https://xgboost.ai/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-red)](https://www.kaggle.com/competitions/dont-overfit-ii)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-這是 **POLYU CS 學生** 的學習練習，參加 Kaggle 「Don’t Overfit! II」 (https://www.kaggle.com/competitions/dont-overfit-ii)。  
+這是 **POLYU CS 學生** 的學習練習，參加 Kaggle 「Don’t Overfit! II」  
 目標是在只有 **250 筆訓練資料、300 個特徵** 的高維小資料集上，建構不會過擬合（Overfitting）的模型，最終以 **AUC-ROC** 作為評分標準。
 
 ---
