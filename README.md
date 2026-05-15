@@ -38,4 +38,6 @@
   - 基於 AUC-ROC 進行超參數調優
 - 最終 Private Score：**0.766**（XGBoost）
 
+![image](https://github.com/yeungzero0/Don-t-Overfit--II---Kaggle/blob/main/Overfit2025_Timg.png)
+
 ---
